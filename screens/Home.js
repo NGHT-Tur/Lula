@@ -45,9 +45,9 @@ safeArea:{
 marginTop:Platform.OS==="android"?StatusBar.currentHeight:0
 },
 titleBar:{
-    flex:0.5,
-    justifyContent:"center",
-    alignItems:"center"
+flex:0.15,
+justifyContent:"center",
+alignItems:"center"
 },
 routeCard:{
 flex:0.25,
@@ -75,7 +75,7 @@ fontSize:15
 },
 numero:{
 position:"absolute",
-color:"rgba(183,183,183,0.5",
+color:"rgba(183,183,183,0.5)",
 fontSize:150,
 right:20,
 bottom:-15,

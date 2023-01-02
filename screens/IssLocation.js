@@ -89,7 +89,7 @@ const styles=StyleSheet.create({
     height:50,
     width:50
     },
-    loadLocation:{
+    loadingLocation:{
     flex:1,
     justifyContent:"center",
     alignItems:"center"
